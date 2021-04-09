@@ -7,7 +7,7 @@ Cascading Style Sheets atau lebih dikenal dengan CSS adalah bahasa pemrograman d
 Berikut contohnya:
 
 ![Gambar](screenshot/satu.png)
-![Gambar](screenshot/2.png)
-![Gambar](screenshot/3.png)
+![Gambar](screenshot/dua.png)
+![Gambar](screenshot/tiga.png)
 ![Gambar](screenshot/44.png)
 ![Gambar](screenshot/5.jpeg)
