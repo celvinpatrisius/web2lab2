@@ -1,0 +1,47 @@
+nav {
+    background: cadetblue;
+    color: white;
+    padding: 10px;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+
+}
+
+nav .active,
+nav a:hover {
+    background: rgb(36, 85, 36);
+}
+
+/* ID Selector */
+#intro {
+    background: turquoise;
+    border: 1x solid black;
+    min-height: 100px;
+    padding: 10px;
+
+}
+#intro h1{
+    text-align: left;
+    border: 0;
+    color: white;
+}
+/* Class Selector */
+.button{
+    padding: 15px 20px;
+    background: grey;
+    color: white;
+    display: inline-block;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.button:hover {background-color: #00E5EE}
+.button:active {
+  background-color: #A26BA2;
+  box-shadow: 0 5px #666;
+  transform: translateY(2px);
+}
+
