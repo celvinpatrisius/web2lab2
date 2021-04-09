@@ -10,4 +10,4 @@ Berikut contohnya:
 ![Gambar](screenshot/2.png)
 ![Gambar](screenshot/3.png)
 ![Gambar](screenshot/44.png)
-![Gambar](screenshot/5.png)
+![Gambar](screenshot/5.jpeg)
